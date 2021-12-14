@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jatin Dhall
+![GitHub followers](https://img.shields.io/github/followers/Jatin7385?style=social)
 
+### I am a Second year Computer Science student at VIT,Vellore.
+--- 
 <!--
-**Jatin7385/Jatin7385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+🧰 Toolbox
+
+---
+-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +20,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin7385&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jatin7385&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
