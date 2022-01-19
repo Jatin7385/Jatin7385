@@ -1,21 +1,31 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jatin Dhall
+<h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jatin Dhall</h1>
+<!-- # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jatin Dhall -->
 <!-- ![GitHub followers](https://img.shields.io/github/followers/Jatin7385?style=social) -->
 
-#### A Computer Science and Engineering Student, exploring various domains in Tech. I love working on interesting problems and projects . I am a generalist and an enthusiastic learner. I prefer hands on learning.
+<h4>A Computer Science and Engineering Student, exploring various domains in Tech. I love working on interesting problems and projects . I am a generalist and an enthusiastic learner. I prefer hands on learning.</h3>
+
+### 🧰 Toolbox
+
 --- 
-
-
-🧰 Toolbox
 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt = "Android Logo" width = "50" height = "50"/><img src = "https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt = "Firebase Logo" width = "50" height = "50"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" alt = "Kotlin Logo" width = "50" height = "50"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt = "Java Logo" width = "50" height = "50"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt = "Arduino Logo" width = "50" height = "50"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt = "C Logo" width = "50" height = "50"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt = "CPP Logo" width = "50" height = "50"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt = "Python Logo" width = "50" height = "50"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt = "Django Logo" width = "50" height = "50"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt = "Qt Logo" width = "50" height = "50"/> 
                                                                   
+
+### 📊Github Stats
+
 ---
 
-### Github Stats
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jatin7385&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jatin7385&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contact Me
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+---
 
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jatin7385&theme=github)
+
+### 🤳🏻 Connect With Me
+
+--- 
 
 <a href="https://www.linkedin.com/in/jatin-dhall-3947a6123/">
   <img align="left" alt="Jatin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
