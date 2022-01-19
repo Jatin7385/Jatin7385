@@ -1,12 +1,16 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jatin Dhall</h1>
 <!-- # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jatin Dhall -->
 <!-- ![GitHub followers](https://img.shields.io/github/followers/Jatin7385?style=social) -->
-
+<!-- 
+<p align = "center">
+<img width="230" align="Right" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300" />
+</p>
+ -->
 <h4>A Computer Science and Engineering Student, exploring various domains in Tech. I love working on interesting problems and projects . I am a generalist and an enthusiastic learner. I prefer hands on learning.</h3>
 
 ### 🧰 Toolbox
 
---- 
+---   
 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt = "Android Logo" width = "50" height = "50"/><img src = "https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt = "Firebase Logo" width = "50" height = "50"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" alt = "Kotlin Logo" width = "50" height = "50"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt = "Java Logo" width = "50" height = "50"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt = "Arduino Logo" width = "50" height = "50"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt = "C Logo" width = "50" height = "50"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt = "CPP Logo" width = "50" height = "50"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt = "Python Logo" width = "50" height = "50"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt = "Django Logo" width = "50" height = "50"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt = "Qt Logo" width = "50" height = "50"/> 
                                                                   
