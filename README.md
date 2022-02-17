@@ -1,7 +1,6 @@
 <h1 align = "center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jatin Dhall</h1>
 <h4 align = "center">A Computer Science and Engineering Student, exploring various domains in Tech. I love working on interesting problems and projects . I am a generalist and an enthusiastic learner. I prefer hands on learning.</h3>
 
-
 - 🔭 I’m currently working on Android Apps, ML
 - 🌱 I’m currently learning BlockChain, DL, 
 - 👯 I’m looking to collaborate on ML, Blockchain projects
@@ -10,6 +9,7 @@
 
 ---
 
+![](https://komarev.com/ghpvc/?username=Jatin7385)
                                                                
 <h2 align="left">📝My latest Blogs:</h2>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jatin.dhall7385/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jatin.dhall7385/0" alt="Recent Article 0">                                                             
