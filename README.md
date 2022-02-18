@@ -15,14 +15,30 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jatin.dhall7385/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jatin.dhall7385/0" alt="Recent Article 0">                                                             
 
 <h2 align = "left">📊Github Stats</h2>
+  
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Jatin7385&theme=radical&show_icons=true&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin7385&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin7385&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+  </tr>
+</table>
+  
 
-<img style="vertical-align:middle;horizontal-align:middle;" src = "https://github-readme-stats.vercel.app/api?username=Jatin7385&theme=radical&count_private=true&show_icons=true"/> 
-
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin7385&theme=radical" alt="Jatin" /></p>
- 
-<img style="vertical-align:middle;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin7385&theme=radical"/>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jatin7385&theme=github)
+<h2 align = "left">📈Productivity Stats<h2>
+ <table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin7385&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=Jatin7385&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </tr>
+</table>
+  
+  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jatin7385&theme=github) -->
 
 
 <h2 align="left">🔗Connect with me:</h2>
