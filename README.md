@@ -9,10 +9,13 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Jatin7385)
-                                                               
+![](https://komarev.com/ghpvc/?username=Jatin7385)                                                  
+                                                     
 <h2 align="left">📝My latest Blogs:</h2>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jatin.dhall7385/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jatin.dhall7385/0" alt="Recent Article 0">                                                             
+
+ <h2 align = "left">🏆Trophies</h2>  
+<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jatin7385&row=1&column=7&margin-w=15&margin-h=15&theme=onedark" alt="Jatin7385" /></a> </p>    
 
 <h2 align = "left">📊Github Stats</h2>
   
