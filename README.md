@@ -2,10 +2,11 @@
 <h4 align = "center">A Computer Science and Engineering Student, exploring various domains in STEM. I love working on interesting problems and projects . I am a generalist and an enthusiastic learner. I prefer hands on learning.</h3>
 
 - 🔭 I’m currently working on Full Stack, AI, Image Processing
+- Passionate about Space, aerospace, F1. Especially the applications of CS in these fields. Anything engineering really. Love it. Simply Lovely(IYKYK).
 - 🌱 I'm a Space Science and Tech enthusiast. Working on Satellite Image Processing 
 - 👯 I’m looking to collaborate on ML/AI research projects
 - 📫 How to reach me: jatin.dhall7385@gmail.com
-- ⚡ Fun fact: I love watching movies/shows, playing sports and playing drums
+- LinkedIn : https://www.linkedin.com/in/jatin-dhall-3947a6123/
 
 ---
 
