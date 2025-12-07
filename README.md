@@ -1,10 +1,10 @@
 <h1 align = "center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jatin Dhall</h1>
-<h4 align = "center">A Computer Science and Engineering Student, exploring various domains in STEM. I love working on interesting problems and projects . I am a generalist and an enthusiastic learner. I prefer hands on learning.</h3>
+<h4 align = "center">CSE graduate from VIT Vellore. Currently working at Adobe on AEM EDS Forms mainly. Passionate about Engineering and STEM. Unpopular opinion maybe, but I'm a generalist and love to be one.</h3>
 
-- 🔭 I’m currently working on Full Stack, AI, Image Processing
+- 🔭 I’m currently working as a Full Stack Engineer.
 - Passionate about Space, aerospace, F1. Especially the applications of CS in these fields. Anything engineering really. Love it. Simply Lovely(IYKYK).
-- 🌱 I'm a Space Science and Tech enthusiast. Working on Satellite Image Processing 
-- 👯 I’m looking to collaborate on ML/AI research projects
+- 🌱 I'm a Space Science and Tech enthusiast. Working on Satellite Image Processing.
+- Always up for fun projects. Feel free to get in touch about any ideas. If you're looking for an overly enthusiastic engineer, you've come to the right place.
 - 📫 How to reach me: jatin.dhall7385@gmail.com
 - LinkedIn : https://www.linkedin.com/in/jatin-dhall-3947a6123/
 
