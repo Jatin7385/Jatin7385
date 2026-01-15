@@ -7,6 +7,18 @@ CSE graduate from VIT Vellore, currently building AEM forms with AEM Edge Delive
 
 Team Captain & Software Lead at Team Sammard, a student aerospace team at VIT during my undergrad, where I led the team to its first successful rocket launch at the Spaceport America Cup.  
 🔗 https://www.teamsammard.com/
+<p align="center">
+  <a href="https://youtu.be/Htndr9wdN7U">
+    <img src="https://img.youtube.com/vi/Htndr9wdN7U/0.jpg" alt="Rocket Launch at Spaceport America Cup" width="300" style="margin-right: 10px;">
+  </a>
+  <a href="https://youtu.be/I32ABoB27Tc">
+    <img src="https://img.youtube.com/vi/I32ABoB27Tc/0.jpg" alt="Rocket Launch Highlights" width="300">
+  </a>
+</p>
+
+
+
+
 
 **Always open to:** Interesting projects and collaborations. If you need an enthusiastic engineer who loves a good challenge, let's talk.
 
