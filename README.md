@@ -5,6 +5,9 @@
 
 CSE graduate from VIT Vellore, currently building AEM forms with AEM Edge Delivery Services. I love diving deep into diverse engineering challenges across domains.
 
+Team Captain & Software Lead at Team Sammard, a student aerospace team at VIT during my undergrad, where I led the team to its first successful rocket launch at the Spaceport America Cup.  
+🔗 https://www.teamsammard.com/
+
 **Always open to:** Interesting projects and collaborations. If you need an enthusiastic engineer who loves a good challenge, let's talk.
 
 ## Connect
