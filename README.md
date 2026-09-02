@@ -3,7 +3,7 @@
 
 ## About Me
 
-Currently working on Ground Segment Software at Pixxel. CSE graduate from VIT Vellore, built AEM forms with AEM Edge Delivery Services at Adobe for 2 years. I love diving deep into diverse engineering challenges across domains.
+Currently working on Ground Segment Software at [Pixxel](https://www.pixxel.space/). CSE graduate from VIT Vellore, built AEM forms with AEM Edge Delivery Services at Adobe for 2 years. I love diving deep into diverse engineering challenges across domains.
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=HY88VRhaPuY">
