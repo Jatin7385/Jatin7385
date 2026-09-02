@@ -5,6 +5,18 @@
 
 Currently working on Ground Segment Software at Pixxel. CSE graduate from VIT Vellore, built AEM forms with AEM Edge Delivery Services at Adobe for 2 years. I love diving deep into diverse engineering challenges across domains.
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=HY88VRhaPuY">
+    <img src="https://img.youtube.com/vi/HY88VRhaPuY/maxresdefault.jpg"
+         alt="Pixxel Firefly Satellites"
+         width="600">
+  </a>
+</p>
+
+<p align="center">
+  <i>Pixxel's Firefly hyperspectral satellite constellation 🛰️</i>
+</p>
+
 During my undergrad at VIT, I served as Team Captain & Software Lead for [Team Sammard](https://www.teamsammard.com/), a student aerospace team. Together, we achieved the team’s first successful rocket launch at the Spaceport America Cup. 
 <p align="center">
   <a href="https://youtu.be/Htndr9wdN7U">
