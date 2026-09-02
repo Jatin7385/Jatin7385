@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋 I'm Jatin Dhall</h1>
-<h3 align="center">Full Stack Engineer at Adobe | ISRO SAC | SGAC SSPG | Samsung Research | Team Sammard </h3>
+<h3 align="center">Software Engineer at Pixxel | Adobe | ISRO SAC | SGAC SSPG | Samsung Research | Team Sammard </h3>
 
 ## About Me
 
-CSE graduate from VIT Vellore, currently building AEM forms with AEM Edge Delivery Services. I love diving deep into diverse engineering challenges across domains.
+Currently working on Ground Segment Software at Pixxel. CSE graduate from VIT Vellore, built AEM forms with AEM Edge Delivery Services at Adobe for 2 years. I love diving deep into diverse engineering challenges across domains.
 
 During my undergrad at VIT, I served as Team Captain & Software Lead for [Team Sammard](https://www.teamsammard.com/), a student aerospace team. Together, we achieved the team’s first successful rocket launch at the Spaceport America Cup. 
 <p align="center">
